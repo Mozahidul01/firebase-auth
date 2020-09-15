@@ -4,7 +4,35 @@
     margin: 30px 0;
 }
 
-.btn{
+.email-login{
+    margin: 20px 0;
+}
+
+.email{
+    padding: 6px;
+    margin: 5px;
+}
+
+.password{
+    padding: 6px;
+    margin: 5px;
+}
+
+.email-login{
+    padding: 30px;
+}
+
+.login-btn{
+    padding: 6px 28px;
+    font-weight: 500;
+    font-size: 16px;
+    border: none;
+    background: #3547e6;
+    border-radius: 3px;
+    color: #ffffff;
+}
+
+.google-btn{
     padding: 8px 24px;
     font-weight: 500;
     font-size: 18px;
@@ -14,7 +42,14 @@
     color: #ffffff;
 }
 
-.btn:hover{
+.google-btn:hover{
     background: #252525;  
     cursor: pointer;
 }
+
+
+
+
+
+
+
